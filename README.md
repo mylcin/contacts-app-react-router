@@ -1,2 +1,2 @@
-## Contacts App - React Router v6.4.0 
-https://reactrouter.com/en/main/start/tutorial
+## Contacts App with React Router v6.4
+[Docs](https://reactrouter.com/en/main/start/tutorial)
